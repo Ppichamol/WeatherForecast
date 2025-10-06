@@ -1,7 +1,7 @@
 # 🌤 Weather Forecast App
 
 A simple Android weather app built with Kotlin, Jetpack Compose, 
-and MVVM architectureMVVM + Repository pattern following Google’s Architecture Template (Base), 
+and MVVM architecture + Repository pattern following Google’s Architecture Template (Base), 
 using the OpenWeatherMap API to fetch real-time weather data.
 
 # 📱 Features
