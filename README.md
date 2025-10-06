@@ -1,4 +1,4 @@
-## 🌤 Weather Forecast App
+# 🌤 Weather Forecast App
 
 A simple Android weather app built with Kotlin, Jetpack Compose, 
 and MVVM architectureMVVM + Repository pattern following Google’s Architecture Template (Base), 
