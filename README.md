@@ -1,4 +1,4 @@
-## [🌤 Weather Forecast App]
+## 🌤 Weather Forecast App
 
 A simple Android weather app built with Kotlin, Jetpack Compose, 
 and MVVM architectureMVVM + Repository pattern following Google’s Architecture Template (Base), 
@@ -60,4 +60,4 @@ When the app attempts to call the API, the error handling UI will automatically 
 If the emulator cannot connect to the API and shows “Internet Error Message”,
 Please toggle Wi-Fi or airplane mode inside the emulator to reset the network connection.
 
-# 👩‍💻 Author - Pichamol Phookpun (Mint) Android Developer
+## 👩‍💻 Author - Pichamol Phookpun (Mint) Android Developer
